@@ -1,0 +1,1 @@
+In the above code, I use the passwords dictionary to store passwords. The passwords are hashed using the SHA-256 algorithm and then encoded as a Base64 string to be stored in a text form.The application allows for adding and displaying passwords.
